@@ -83,9 +83,8 @@
         <!-- /.social-auth-links -->
 
         <p class="my-3 text-center">
-            <!-- <button type="button" class=""><a href="{{ asset('template') }}/index.php"></a>Back to Home</button> -->
-            <a href="{{ asset('template') }}/index.php" class="" role="button">Register | </a>
-            <a href="forgot-password.html" class="">Lupa password</a>
+            <a href="/register" class="" role="button">Register | </a>
+            <a href="/" class="">Lupa password</a>
         </p>
       </div>
       <!-- /.card-body -->
