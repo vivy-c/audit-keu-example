@@ -116,9 +116,7 @@
                             <div class="form-group">
                                 <label for="password">Password</label>
                                 <input type="password" id="password" class="form-control" value="sasa" name="password">
-                                <input type="hidden" id="password2" class="form-control " value="<br />
-    <b>Notice</b>:  Undefined index: password2 in <b>C:\xampp\htdocs\audit-keu\sistem\kepala_spi\dashboard\index.php</b> on line <b>214</b><br />
-    " name="password2">
+                                <input type="hidden" id="password2" class="form-control " value=" " name="password2">
                             </div>
 
                             <div class="form-group">
